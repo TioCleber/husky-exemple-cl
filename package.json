@@ -1,0 +1,10 @@
+{
+  "name": "husky-exemple-cl",
+  "version": "1.0.0",
+  "description": "husky exemple",
+  "main": "index.js",
+  "repository": "https://github.com/TioCleber/husky-exemple-cl.git",
+  "author": "Cleber zacher <cleberzacher@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
